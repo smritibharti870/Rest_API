@@ -1,0 +1,15 @@
+REST API to get the API version
+--------------------------------
+https://<SERVICE_NAME>-<TENANT_NAME>.<SERVICE_TYPE>.<dcX>.oraclecloud.com/HyperionPlanning/rest/
+
+<SERVICE_NAME> = planning
+<TENANT_NAME> = s123456
+<SERVICE_TYPE> = pbcs
+<dcX> = us2
+
+https://planning-s123456.pbcs.us2.oraclecloud.com/HyperionPlanning/rest
+
+username = smrit
+
+User name to invoke REST APIs = identitydomain.username
+                              = s123456.smrit
